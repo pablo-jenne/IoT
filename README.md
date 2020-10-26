@@ -8,4 +8,10 @@ week2: upload van php code voor de database connection en php code voor in tabel
 week3: form gemaakt voor manueel data in tabel toe te voegen en ook een search toegevoegd alleen geeft deze nog een error 
 
 
-![Alt text](C:\Users\WIKON\Downloads/schema_iot.jpg raw=true "Title")
+
+
+
+
+
+
+![](schema_iot.jpg)
