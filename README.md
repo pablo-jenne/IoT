@@ -9,8 +9,9 @@ week3: form gemaakt voor manueel data in tabel toe te voegen en ook een search t
 
 week4: data via api binnen halen en in de database steken en flowchart/schema gemaakt
 
+week5: search maken met ajax het filteren lukt op sensor en waarde maar timestamp nog niet
 
-
+week6: rss feed gemaakt en werkt ook + evaluatie
 
 
 
