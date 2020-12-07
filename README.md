@@ -5,7 +5,7 @@
 
 
 
-![](schema_iot.jpg)
+![](schema_iot.png)
 
 links boven:
 
